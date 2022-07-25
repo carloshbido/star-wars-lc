@@ -2,12 +2,11 @@
 
 - Realizar o consumo da API https://swapi.dev/
     - Endpoints possíveis
-        - films Ok
-        - species Ok
-        - vehicles * Erro - não existe esse endpoint
-        - people Ok
-        - planets Ok
-        - starships Ok
+        - films
+        - species
+        - people
+        - planets
+        - starships
     
 - Criar um endpoint chamado /filme, na qual ele deverá receber o parâmetro id via Param, na qual deverá buscar o filme na api e retornar ao usuário os dados da seguinte maneira:
 
@@ -52,14 +51,3 @@
 ```
 
 - Crie rotas para /personagem, /veiculos, /naves, /planetas e /especies
-
-Equipes:
-Lead: Prof. Marco
-- Natalia
-- Octavio
-- Guilherme 
-
-Lead: Prof. Carlos
-- Gil
-- Pedro Lucas
-- Pedro Martins
